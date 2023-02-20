@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/12/2016, 9:43:49
+    Author     : Daril Avila
+*/
+.divMenu{
+
+    height: 50px;
+
+}
+.divArriba{
+
+    height: 600px;
+
+}
+.carousel-inner img {
+    margin: auto;
+    width: 75%;
+
+}
+
+#footer {
+    opacity: 0.9;
+}
+nav.navbar {
+    background-color: red;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:white;
+}
+
+#colorFondoCarrusel{
+    background-color: #cecece;
+
+}
+
+#colorFooter{
+    background-color: red;
+
+}
+.espacioArriba {
+    padding: 16px;
+    margin-top: 30px;
+    /* height: 1500px; /* Used in this example to enable scrolling */
+}
+
+.neverwalkalone{
+    text-align:center;
+    margin:20px 0;
+    min-height:34px;
+    max-width:1192px;
+    margin:0 auto;    
+    background-size:contain;
+    background-color: #cecece;
+}
+
+#letrasBlancas{
+    color:#FFFFFF;
+}
+
+#redondeado {
+    -webkit-border-radius: 10px 20px;  
+    -moz-border-radius: 10px 20px;     
+}
+
+table      { 
+    text-align: center; 
+}
+
+#contactenos{
+    
+    background-color: #A9D0F5;
+}
+#h{
+    padding-top: 25px;
+}
